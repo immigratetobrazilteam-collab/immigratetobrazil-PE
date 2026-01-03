@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Impact, sans-serif;
+    background: #FFE4E1;
+    color: #DC143C;
+}
+
+h1, h2 {
+    font-family: Party, serif;
+    color: #FF4500;
+}
+
+a {
+    color: #FFD700;
+}
+
+section {
+    padding: 3rem;
+}
