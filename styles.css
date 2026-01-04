@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Impact, sans-serif;
+    font-family: Impact;
     background: #FFE4E1;
     color: #DC143C;
 }
 h1, h2 {
-    font-family: Party, serif;
+    font-family: Party;
     color: #FF4500;
 }
 a {
