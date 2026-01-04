@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Immigrate to Pernambuco",
+  "description": "Pernambuco is a state in Brazil's Northeast region, known for its coastal cities like Recife and Olinda, rich history of sugarcane and slavery, vibrant carnivals with frevo and maracatu music, and natural features including beaches, forests, and the Fernando de Noronha archipelago.",
+  "keywords": "Pernambuco, Recife, Olinda, Carnival, Frevo, Maracatu, Fernando de Noronha",
+  "url": "https://immigratetobrazil.com/pe/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Pernambuco",
+    "addressCountry": "BR"
+  },
+  "sameAs": [
+    "https://www.pe.gov.br/",
+    "https://en.wikipedia.org/wiki/Pernambuco",
+    "http://www.ufrpe.br/en/content/etimologia-de-pernambuco-teria-origem-no-portugu%C3%AAs-e-n%C3%A3o-no-tupi-diz-pesquisador-da-ufrpe-em"
+  ]
+}
